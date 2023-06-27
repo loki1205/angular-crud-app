@@ -1,0 +1,15 @@
+{
+  "employee": [
+    {
+      "firstName": "Loknath",
+      "lastName": "Kumar Mishra",
+      "email": "x@mail.com",
+      "dob": "2002-05-11T18:30:00.000Z",
+      "education": "Graduate",
+      "gender": "Male",
+      "experience": 1,
+      "package": 25,
+      "id": 2
+    }
+  ]
+}
